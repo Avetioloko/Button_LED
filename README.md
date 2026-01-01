@@ -15,4 +15,3 @@ void loop() {
     digitalWrite(ledPin, LOW);
   }
 }
-Как это работает
